@@ -29,4 +29,5 @@ If the account is closed, you can neither suspend nor activate it. No deposits a
 - close() : void
 - toString()   // displays account number and balance
 # UML Diagram
+![image](https://github.com/neoalaricv/statePattern/assets/142380105/9c90cc55-a042-4d36-b50c-a37d5e956f01)
 
